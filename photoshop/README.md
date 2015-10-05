@@ -1,6 +1,6 @@
 # Link Mediawall Photoshop Templates
 
-**Info:** These photoshop templates will help you compose still image content/slides for the Mediawall.  They show the divisions/placement of the individual screens.  The templates currently use the default Duke fonts (Garamond3 and Interstate), which can be found in the typical fonts folder in the Mediawall github shared repository.  Please feel free to substitute your own fonts, and adject the color scheme, depending on the graphic needs of the exhibition.
+**General Information:** These photoshop templates will help you compose still image content/slides for the Link Mediawall.  They show the divisions/placement of the individual screens.  The templates currently use the default Duke fonts (Garamond3 and Interstate), which can be found in the typical fonts folder in the Mediawall Github shared repository.  Please feel free to substitute your own fonts, and adjust the color scheme, depending on the graphic needs of the exhibition.
 
 **Dimensions / Details:** 
 3x6 grid of 46" thin-bezel displays (Samsung 460 UT-B)
