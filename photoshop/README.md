@@ -4,6 +4,6 @@
 
 **Dimensions / Details:** 
 3x6 grid of 46" thin-bezel displays (Samsung 460 UT-B)
-the overall size of the Mediawall, 242.4"/20.2' W x 68.4"/5.7' H
+the overall size of the Mediawall, 242.4"/20.2' W x 68.4"/5.7' H.
 each display has a 1366 x 768 pixel resolution, 24 bits deep.
-aspect ratios - 3.555:1 (full wall), 1.777:1 (individual display)
+aspect ratios - 3.555:1 (full wall), 1.777:1 (individual display).
